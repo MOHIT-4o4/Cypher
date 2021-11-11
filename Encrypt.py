@@ -1,3 +1,4 @@
+"""Enrypting text with Fernet"""
 from cryptography.fernet import Fernet
 
 text = "This is a secret message"
